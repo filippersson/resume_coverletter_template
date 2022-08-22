@@ -1,6 +1,6 @@
 # Resume and cover letter template for Adobe InDesign/Illustrator
 
-![toc_image](github_splash.png)
+![toc_image](github_toc_image.png)
 
 Feel free to use this template for your cover letter or resume. Regrettably, you need (expensive) Adobe software use this at the moment. An open source alternative is hopefully coming here soon. 
 
