@@ -2,7 +2,7 @@
 
 ![toc_image](github_toc_image.png)
 
-Feel free to use this template for your cover letter or resume. Regrettably, you need (expensive) Adobe software use this at the moment. An open source alternative is hopefully coming here soon. 
+Feel free to use this template for your cover letter or resume. Regrettably, you need (expensive) Adobe software at the moment. An open source alternative is hopefully coming here soon. 
 
 
 
